@@ -6,8 +6,7 @@ Using POSIX library , implemented a basic shell in c++, which executes the stand
 
 Direction to run the code:
 
-COMPILE:  g++ -o shell myshell.cpp
-Execute:  ./shell
+bash executable.sh
 
 Features covered:
 
